@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language used for various applications."
+    },
+    {
+        "question": "What is software testing?",
+        "answer": "Software testing is the process of evaluating software to detect bugs and ensure quality."
+    },
+    {
+        "question": "What is the difference between manual and automated testing?",
+        "answer": "Manual testing involves human effort, while automated testing uses tools to execute test cases."
+    },
+    {
+        "question": "Why is QA important?",
+        "answer": "QA ensures that the product meets user expectations and prevents costly issues in production."
+    },
+    {
+        "question": "What is a test case?",
+        "answer": "A test case is a set of conditions or inputs used to verify a specific feature of the software."
+    },
+    {
+        "question": "What is regression testing?",
+        "answer": "Regression testing ensures that new changes do not break existing functionality."
+    },
+    {
+        "question": "What is the difference between a bug and a defect?",
+        "answer": "A bug is an error found during testing, while a defect is a deviation from requirements found after release."
+    },
+    {
+        "question": "What is continuous integration?",
+        "answer": "Continuous integration is a practice where code changes are automatically tested and integrated into a shared repository."
+    },
+    {
+        "question": "What is the role of a QA engineer?",
+        "answer": "A QA engineer is responsible for designing test cases, executing tests, and ensuring software quality."
+    },
+    {
+        "question": "What is black-box testing?",
+        "answer": "Black-box testing is a testing method where the tester evaluates the software without knowing its internal structure."
+    }
+]
